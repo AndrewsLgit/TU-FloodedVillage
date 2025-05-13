@@ -1,7 +1,9 @@
 {
-    "name": "1984.Runtime",
+    "name": "Data.Runtime",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:24e6fbeea667bae45b0d07b3c48194b3"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

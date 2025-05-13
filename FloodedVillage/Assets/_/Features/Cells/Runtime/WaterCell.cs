@@ -2,20 +2,13 @@ using UnityEngine;
 
 public class WaterCell : Cell
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    // public WaterCell(Vector3 cellPos, GameObject cell) : base(cellPos,  cell)
+    // {
+    //     _tileType = MapData.TileType.Water;
+    // }
 
     protected override void Reaction()
     {
         Info($"Turning next cell into water!");
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

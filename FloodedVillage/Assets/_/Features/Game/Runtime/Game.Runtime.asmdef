@@ -2,8 +2,10 @@
     "name": "Game.Runtime",
     "rootNamespace": "",
     "references": [
-        "GUID:2bca2bf88bfebed44b11e8144066b8c2",
-        "GUID:24e6fbeea667bae45b0d07b3c48194b3"
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:276c21b4f20004e4ea80116386ba2f86",
+        "GUID:24e6fbeea667bae45b0d07b3c48194b3",
+        "GUID:2bca2bf88bfebed44b11e8144066b8c2"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

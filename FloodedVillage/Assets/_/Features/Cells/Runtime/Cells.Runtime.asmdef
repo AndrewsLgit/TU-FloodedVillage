@@ -2,6 +2,7 @@
     "name": "Cells.Runtime",
     "rootNamespace": "",
     "references": [
+        "GUID:276c21b4f20004e4ea80116386ba2f86",
         "GUID:24e6fbeea667bae45b0d07b3c48194b3"
     ],
     "includePlatforms": [],
